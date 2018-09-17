@@ -1,0 +1,127 @@
+[ 2018-09-17T16:08:20+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:08:29+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:12:57+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:16:21+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:16:43+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:16:47+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:18:46+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:19:07+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-17T16:19:17+08:00 ] 127.0.0.1 /
+ERR: Call to a member function set() on null
+
+[ 2018-09-17T16:34:00+08:00 ] 127.0.0.1 /
+ERR: Call to a member function set() on null
+
+[ 2018-09-17T16:35:41+08:00 ] 127.0.0.1 /
+ERR: Call to a member function set() on null
+
+[ 2018-09-17T16:35:53+08:00 ] 127.0.0.1 /
+ERR: Call to a member function close() on null
+
+[ 2018-09-17T16:37:28+08:00 ] 127.0.0.1 /
+ERR: Call to a member function close() on null
+
+[ 2018-09-17T16:38:13+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004273s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.008840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014041s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0234s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0023s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0186s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0035s ]
+
+[ 2018-09-17T16:38:23+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000989s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003867s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0198s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0029s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0028s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0025s ]
+
+[ 2018-09-17T16:38:24+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001688s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003508s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0130s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0021s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0019s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0022s ]
+
+[ 2018-09-17T16:38:33+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000856s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.004327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005975s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0173s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0016s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0180s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0023s ]
+
+[ 2018-09-17T16:38:34+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003163s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007674s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0185s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0027s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0172s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0023s ]
+
+[ 2018-09-17T16:38:42+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001470s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.002294s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006888s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0202s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0016s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0181s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0025s ]
+
+[ 2018-09-17T16:38:43+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001292s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004425s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0385s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0022s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0018s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0024s ]
+
+[ 2018-09-17T16:38:50+08:00 ] 127.0.0.1 /index.php?g=home&m=user&a=threeparty
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: Run Behavior\CheckLangBehavior [ RunTime:0.001203s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002737s ]
+SQL: SHOW COLUMNS FROM `cmf_config` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0014s ]
+SQL: SELECT * FROM `cmf_config` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `cmf_config_private` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `cmf_config_private` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0019s ]
+

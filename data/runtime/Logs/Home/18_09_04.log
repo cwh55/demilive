@@ -1,0 +1,42 @@
+[ 2018-09-04T10:21:41+08:00 ] 127.0.0.1 /
+ERR: Class 'Redis' not found
+
+[ 2018-09-04T10:22:32+08:00 ] 127.0.0.1 /
+ERR: Class 'Redis' not found
+
+[ 2018-09-04T10:29:06+08:00 ] 127.0.0.1 /
+ERR: Call to a member function Get() on null
+
+[ 2018-09-04T10:29:28+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:41+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:44+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:45+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:45+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:46+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:46+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:46+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:55+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:33:55+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
+[ 2018-09-04T10:39:05+08:00 ] 127.0.0.1 /
+ERR: SQLSTATE[HY000] [1045] Access denied for user '数据库账户'@'localhost' (using password: YES)
+
