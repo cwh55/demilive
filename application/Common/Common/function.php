@@ -1781,11 +1781,12 @@ function sp_delete_physics_img($imglist){
 
 	/* redis链接 */
 	function connectionRedis(){
-		return null;
+		//return null;
 		$REDIS_HOST= C('REDIS_HOST');
 		$REDIS_AUTH= C('REDIS_AUTH');
 		$REDIS_PORT= C('REDIS_PORT');
 		$redis = new \Redis();
+		var_dump($redis);
 		$redis -> pconnect($REDIS_HOST,$REDIS_PORT);
 		$redis -> auth($REDIS_AUTH);
 
@@ -1808,6 +1809,7 @@ function sp_delete_physics_img($imglist){
 	/* 设置缓存 可自定义时间*/
 	function setcaches($key,$info,$time){
 		$redis=connectionRedis();
+		var_dump($redis);
 		$redis->set($key,json_encode($info));
 		$redis->setTimeout($key, $time); 
 		$redis->close();

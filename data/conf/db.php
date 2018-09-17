@@ -12,9 +12,9 @@ return array(
     'DB_PREFIX' => 'cmf_',
 						
 	/* redis */
-	'REDIS_HOST' => "127.0.0.1",
-	'REDIS_AUTH' => "127.0.0.1",
-	'REDIS_PORT' => "6379",
+	//'REDIS_HOST' => "127.0.0.1",
+	//'REDIS_AUTH' => "test123",
+	//'REDIS_PORT' => "6379",
     //密钥
     "AUTHCODE" => 'rCt52pF2cnnKNB3Hkp',
     //cookies
